@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="./nlw/public/images/map-marker.svg" width="100%">
+  <img alt="Happy" src="./nlw/public/images/map-marker.svg" width="10%">
 </p>
 
 
