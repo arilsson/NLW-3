@@ -44,6 +44,12 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
+## 🦸 Autor
+ <img style="border-radius: 50%;" src="https://avatars2.githubusercontent.com/u/71611542?s=460&u=02be2ba9004063163d61358ccdab70a91ce1d09d&v=4" width="100px;" alt=""/>
+ <br />
+ <p><b>Arilsson Bernardi</b> 🚀</p> 
+ <br />
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
