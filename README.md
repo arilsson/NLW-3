@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://github.com/rocketseat-education/nlw-03-discovery/raw/main/.github/happy.png" />
 </h1>
 
 <p align="center">
