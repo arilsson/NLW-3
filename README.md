@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src=".NLW-3/nlw/public/images/logo-icon.png" width="100%">
 </p>
 
 
