@@ -1,5 +1,6 @@
 <h1 align="center">
     <img alt="Happy" title="Happy" src="./nlw/public/images/logo2.svg" />
+    <img alt="Happy" title="Happy" src="./nlw/public/images/map-marker.svg" />
 </h1>
 
 <p align="center">
