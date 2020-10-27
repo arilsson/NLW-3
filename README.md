@@ -1,9 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src="https://github.com/rocketseat-education/nlw-03-discovery/raw/main/.github/logo.svg" 
-         <img alt="Happy" src="./nlw/public/images/map-marker.svg" width="10%">/>
-</h1>
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="https://github.com/rocketseat-education/nlw-03-discovery/raw/main/.github/happy.png" />
+    <img alt="Happy" title="Happy" src="https://github.com/rocketseat-education/nlw-03-discovery/raw/main/.github/logo.svg" />
 </h1>
 
 <p align="center">
